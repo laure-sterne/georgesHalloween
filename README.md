@@ -66,9 +66,9 @@ During this project, I discovered the agile method by making this game during a 
 
 Here are some other projects realized during [Ada Tech School](https://adatechschool.fr/)
 
-  🍲 [Foodtacagoule](https://github.com/laure-sterne/foodTaCagoule) : a website which purpose some recipes according to moment of the day.
+  🍲 [Food Ta Cagoule](https://github.com/laure-sterne/foodTaCagoule) : a website which purpose some recipes according to moment of the day.
 
-  🦔 [Extension navigateur de talents](https://github.com/laure-sterne/extentionNavigateurDeTalents) : a chrome extension which tends to make the web accessible to color blind people.
+  🌈 [Extension navigateur de talents](https://github.com/laure-sterne/extentionNavigateurDeTalents) : a chrome extension which tends to make the web accessible to color blind people.
 
-  🌈 [Petit hérisson pipou](https://github.com/laure-sterne/socialNetworkPetitHerissonPipou) : a social network whose mascot is a hedgehog. 
+  🦔 [Petit Hérisson Pipou](https://github.com/laure-sterne/socialNetworkPetitHerissonPipou) : a social network whose mascot is a hedgehog.  
 
