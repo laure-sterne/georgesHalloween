@@ -68,7 +68,7 @@ Here are some other projects realized during [Ada Tech School](https://adatechsc
 
   🍲 [Food Ta Cagoule](https://github.com/laure-sterne/foodTaCagoule) : a website which purpose some recipes according to moment of the day.
 
-  🌈 [Extension navigateur de talents](https://github.com/laure-sterne/extentionNavigateurDeTalents) : a chrome extension which tends to make the web accessible to color blind people.
+  🌈 [See More](https://github.com/laure-sterne/seeMore) : a chrome extension which tends to make the web accessible to color blind people.
 
-  🦔 [Petit Hérisson Pipou](https://github.com/laure-sterne/socialNetworkPetitHerissonPipou) : a social network whose mascot is a hedgehog.  
+  🦔 [Petit Hérisson Pipou](https://github.com/laure-sterne/petitHerissonPipou) : a social network whose mascot is a hedgehog.  
 
